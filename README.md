@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kolla Greeshma Sree</h1>
-<h3 align="center">Aspiring Software Developer | AI & Data Science Student | Frontend Developer</h3>
+<h3 align="center">Aspiring Software Developer | Artificial Intellegence & Data Science Student | Frontend Developer| Backend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;AI+%26+Data+Science+Student;Frontend+Developer;React+%7C+JavaScript+%7C+Spring+Boot;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -13,6 +13,12 @@
 
 💻 Passionate about building responsive, user-friendly web applications and continuously improving my development skills.
 
+🚀 **Frontend:** HTML, CSS, JavaScript, React, Vite
+
+⚙️ **Backend:** Java, Spring Boot,
+
+🗄️ **Databases:** MySQL, Firebase,MongoDB
+
 🌱 Currently learning:
 - Spring Boot
 - Full Stack Development
@@ -20,8 +26,9 @@
 - Machine Learning
 
 🚀 Interested in:
-- Frontend Development
 - Full Stack Development
+- Frontend Development
+- Backend Development
 - Artificial Intelligence
 
 💡 I enjoy solving real-world problems through clean, efficient, and scalable code.
